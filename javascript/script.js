@@ -148,4 +148,11 @@ var dataLesther = document.getElementById("dataLesther");
 dataLesther.innerHTML = `
 mi nombre es ${nombRes} ${apellIdos} y estudie mi undecimo en el colegio <span class="colegio"> ${colegioUndecimoGrado} </span>.
 `;
-
+// datos de jiuberth
+let first_name = "Jiuberth Gabriel Gonzalez Rodriguez"
+let career = "Ing sistemas"
+let age = 26
+var data_jiuberth = document.getElementById("data_jiuberth");
+data_jiuberth = `
+mi nombre es < span class="call_first_name"> ${first_name}</span>, tengo la edad de <spa class="call_age"${age} </span> y estudio ${career} 
+`;

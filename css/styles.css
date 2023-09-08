@@ -64,7 +64,7 @@ h1 {
 }
 
 
-//codigo agredado
+/*codigo agredado */
 .apellidoEstudent{
     color: green;
 }
@@ -165,3 +165,9 @@ h1 {
     color:green;
 }
 /* _______________________Final_________________________ */
+.call_data_jiuberth .call_first_name {
+    color:skyblue;
+}
+.call_data_jiuberth .call_age {
+    color:red;
+}
